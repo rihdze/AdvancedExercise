@@ -1,3 +1,9 @@
+/*
+
+Created by: Rihards Dzerkals, group 1.
+ */
+
+
 import java.util.ArrayList;
 
 public class main {
